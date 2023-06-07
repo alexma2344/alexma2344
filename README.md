@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexma2344
 - 👀 I’m interested in computer networks.
-- 🌱 I’m currently learning how to parse network data and output reports that are useful to organizations.
+- 🌱 I’m currently learning how to parse network data and output reports.
 - 📫 How to reach me: alexma2344@gmail.com
 
 <!---
